@@ -1,0 +1,9 @@
+export AWS_ACCESS_KEY=
+export AWS_SECRET_ACCESS_KEY=
+export S3_BUCKET=cold-storage.s3.example.com
+export S3_BUCKET_REGION=eu-west-1
+export S3_BUCKET_PREFIX=daily
+export REPLAY_TO_DOMAIN=http://localhost:8080
+export LOG_FILE_INPUT_DIR=/tmp
+export LOG_FILE_PATTERN=2017
+export LOG_FILE_CHUNK_LINES=4
